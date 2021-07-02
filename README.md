@@ -7,7 +7,7 @@ https://github.com/Anon-Exploiter/SUID3NUM
 
 Siting GTFOBins as source for GTFOBin SUID binaries found in shell script.
 
-#https://gtfobins.github.io/#+suid
+https://gtfobins.github.io/#+suid
 
 Author: ArchCWithClasses
 
