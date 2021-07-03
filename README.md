@@ -1,7 +1,7 @@
 # SUIDChecker
 A shell script to check for default, custom or GTFOBin SUIDs on Linux machine.
 
-Siting SUID3NUM as source for default SUID binaries found in shell script. Anon-Exploiter SUID3NUM is also the source for the idea of seperating out SUID binaries into the default,GTFOBin, and custom catefories. 
+Siting SUID3NUM as source for default SUID binaries found in shell script. Anon-Exploiter SUID3NUM is also the source for the idea of seperating out SUID binaries into the default,GTFOBin, and custom categories. 
 
 https://github.com/Anon-Exploiter/SUID3NUM
 
