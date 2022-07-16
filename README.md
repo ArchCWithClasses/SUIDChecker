@@ -13,4 +13,4 @@ Author: ArchCWithClasses
 
 Currently in beta testing phase and not being distributed. The suidChecker.sh script should be used for educational, ctf, or ethical hacking.
 
-The suidChecker.sh script will work on all Debian-based distributions, Redhat-based distributions, and ArchLinux. The suidChecker.sh script won't work on FreeBSD, macOS, NetBSD, or OpenBSD because of those operating systems implementation of sed.  
+The suidChecker.sh script will work on all Debian-based distributions, Red Hat-based distributions, and ArchLinux. The suidChecker.sh script won't work on FreeBSD, macOS, NetBSD, or OpenBSD because of those operating systems implementation of sed.  
