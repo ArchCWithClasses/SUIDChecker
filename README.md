@@ -9,7 +9,7 @@ Citing GTFOBins as source for GTFOBin SUID binaries found in shell script.
 
 https://gtfobins.github.io/#+suid
 
-Author: ArchCWithClasses
+Author: ReconDeveloper
 
 Currently in beta testing phase and not being distributed. The suidChecker.sh script should be used for educational, ctf, or ethical hacking.
 
